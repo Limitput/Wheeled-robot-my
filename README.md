@@ -37,7 +37,7 @@
 - 需要解决的问题
  1. 优先需要解决的问题就是FOC的学习和应用，具体的教程包含但不限于[基于STM的无感FOC控制原理](https://www.bilibili.com/video/BV1Fx76zzEcP/?spm_id_from=333.337.search-card.all.click&vd_source=bb311f54a7671df0ea69db4afaf49631)、[FOC算法](https://www.bilibili.com/video/BV1x84y1V76u?spm_id_from=333.788.videopod.sections&vd_source=bb311f54a7671df0ea69db4afaf49631)
  2. 陀螺仪的使用以及搭配。首先就是[陀螺仪原始数据的读取](https://blog.csdn.net/asdashhv/article/details/124413960)，对原始数据进行[防零漂处理](https://www.iotword.com/14737.html)，然后就是对原始数据进行[卡尔曼滤波](https://blog.csdn.net/qq_31775031/article/details/117067785)（可以用matlab进行仿真）。
- 3. 然后就是轮足机器人的[运动学解析](https://www.bilibili.com/video/BV1kz421B73V?spm_id_from=333.788.videopod.sections&vd_source=bb3strikethrough text11f54a7671df0ea69db4afaf49631)了，这个还是不错的，有人视频带着1对1学习。
+ 3. 然后就是轮足机器人的[运动学解析](https://www.bilibili.com/video/BV1kz421B73V?spm_id_from=333.788.videopod.sections&vd_source=bb3strikethroughtext11f54a7671df0ea69db4afaf49631)了，这个还是不错的，有人视频带着1对1学习。
  4. 最重要的一点，**坚持**，哪怕进度慢也一小步一小步的走
 
 > 一点自己的小见解
