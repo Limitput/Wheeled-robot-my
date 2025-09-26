@@ -1,11 +1,11 @@
 # <p align="center">轮足机器人开篇</p>
 ##  轮足机器人简介
-![轮足机器人照片](https://github.com/fa43f641-83bf-40db-b366-c2020c1e7e10)
+![轮足机器人照片](https://github.com/Limitput/Wheeled-robot-my/blob/main/image/%E5%BC%80%E6%BA%90%E5%85%A8%E8%BA%AB%E7%85%A7.jpg)
 一种可以均衡地形的机器人，可以竞速跳跃，**跨越障碍、上下楼梯、保持平衡**
 在平坦、坚硬的表面上（如马路、室内地板），轮子具有**速度快、能耗低、控制简单、运动平稳**的巨大优势。
 看样子很不错虽然打算老实考研，但是过程过于枯燥，于是选择缓慢的开启一个项目配合考研同步进行
-![3205电机](https://github.com/250929ed-bde3-44c6-b7a4-7fb8750b36cf)
-![2804电机](https://github.com/1147fc4e-6cf3-449f-be1a-4bc89d60f1f2)
+![3205电机](https://github.com/Limitput/Wheeled-robot-my/blob/main/image/3205%E7%94%B5%E6%9C%BA.png)
+![2804电机](https://github.com/Limitput/Wheeled-robot-my/blob/main/image/2804%E7%94%B5%E6%9C%BA.png)
 ## 硬件方面
 - 轮组选择
 目前有3205无刷电机和2804无刷电机两个选项
@@ -23,7 +23,7 @@
 |**价格**|24R|25R|
 
 如果我能获得充足的预算的话应该会上4010电机，毕竟全方位碾压上面的东西
-![4010电机](https://github.com/eaba81f4-7c91-41f6-9651-5e334821d85a)
+![4010电机](https://github.com/Limitput/Wheeled-robot-my/blob/main/image/4010%E7%94%B5%E6%9C%BA.png)
 
 - 滑轮驱动选择，目前初步打算自己制作，但由于还没有学习过FOC驱动，于是打算先用开源硬件过度一下
 机械结构目前使用[灯开源的四舵机二无刷结构](https://www.bilibili.com/video/BV1kz421B73V?spm_id_from=333.788.videopod.sections&vd_source=bb311f54a7671df0ea69db4afaf49631)
